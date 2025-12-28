@@ -1,5 +1,5 @@
 # SolarSim-X: A High-Throughput ML-Physics Framework
-
+![Status](https://img.shields.io/badge/Status-Under%20Review-orange?style=flat-square)
 SolarSim-X is a machine learning-enhanced simulation tool designed for rapid photovoltaic (PV) characterization. By bridging the gap between **Random Forest Regression** and the **Single-Diode Model (SDM)**, it enables high-throughput material screening 100x faster than traditional iterative solvers.
 
 ## 🚀 Key Features
